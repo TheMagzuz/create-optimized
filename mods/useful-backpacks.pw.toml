@@ -1,0 +1,13 @@
+name = "Useful Backpacks"
+filename = "useful_backpacks-fabric-1.20.1-2.0.1.122.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3ecea50564770984a83028a9a35bb0caaa320f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4771703
+project-id = 274338

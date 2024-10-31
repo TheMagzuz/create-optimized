@@ -1,0 +1,13 @@
+name = "Tom's Simple Storage Mod (Fabric)"
+filename = "toms_storage_fabric-1.20-1.6.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30d638846c5f5f333b0f569777e6bb27f270d9d0"
+url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/4Ie0pZX5/toms_storage_fabric-1.20-1.6.7.jar"
+
+[update]
+[update.modrinth]
+mod-id = "toms-storage"
+project-id = "1.20-1.6.7-fabric"
